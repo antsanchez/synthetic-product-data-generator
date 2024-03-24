@@ -1,6 +1,9 @@
 # Synthetic Product Data Generation Notebook
 This project houses a Jupyter Notebook designed to leverage the capabilities of Large Language Models (LLMs) via the [LangChain framework](https://python.langchain.com/docs/get_started/introduction) for the generation of synthetic product data. It aims to provide a versatile tool for generating realistic product listings, which can be customized and used across various domains, particularly e-commerce.
 
+## Example
+You can find an example of a dataset generated with this code. Its a synthetic dataset for a fishing eCommerce shop that can be found on Kaggle: [Synthetic Fishing Products Dataset](https://www.kaggle.com/datasets/asanchezdev/synthetic-fishing-products) and was generated using Mistral 7B locally.
+
 ## Author
 This project is developed by Antonio Sánchez. For more details about his work and projects, visit [asanchez.dev](https://asanchez.dev).
 
